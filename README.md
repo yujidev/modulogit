@@ -1,2 +1,1 @@
-Alterar o que quiser.
-Alteraçao feita no MASTER.
+Meu primeiro sistema no Git (alterado e atualizado)
